@@ -1,0 +1,1 @@
+Program('bmpdump', ['bmpdump.c'])
